@@ -3,11 +3,17 @@
 # configure .env file
 
 "SERVER_URL = localhost"
+
 SERVER_PORT=3000
+
 DB_HOST=localhost
-DB_USER=express_test
+
+DB_USER=root
+
 DB_PASSWORD="password"
-DB_NAME=express_test 
+
+DB_NAME=test 
+
 DB_DIALECT=mysql
 
 
